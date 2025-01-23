@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Since!
+# 👋 Hello, I’m Since!
 
 _A Project Engineer turned explorer of technology and the world._
 
@@ -10,7 +10,7 @@ _A Project Engineer turned explorer of technology and the world._
 ## 🔧 My Skill Set
 - **Embedded Systems**: From coding microcontrollers in C to designing with Matlab Simulink.  
 - **HIL Testing**: Using NI PXI series to build the test environments.  
-- **Wireless Communication**: Bluetooth, CAN Bus, and more.  
+- **Communication**: Bluetooth, CAN Bus, UART, SPI and more.  
 - **Languages**:  
   - Chinese (Native)  
   - English (Fluent)  
