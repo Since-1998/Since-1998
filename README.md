@@ -13,8 +13,8 @@ _A Project Engineer turned explorer of technology and the world._
 - **Wireless Communication**: Bluetooth, CAN Bus, and more.  
 - **Languages**:  
   - 🇹🇼 Chinese (Native)  
-  - 🇬🇧 English (IELTS 6.5)  
-  - 🇩🇪 German (A2, working on it!)  
+  - 🇬🇧 English (Fluent)  
+  - 🇩🇪 German (Begineer, working on it!)  
 
 ## 🛠️ What I'm Working On
 - **🔄 Leveraging Technical Expertise for Project Management**: Transforming my embedded engineering experience into strong project management skills—coordinating teams, aligning technical goals, and delivering solutions that meet both customer and market needs.  
